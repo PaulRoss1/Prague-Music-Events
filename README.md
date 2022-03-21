@@ -1,7 +1,7 @@
 # Prague Music Events
 
-
-
+## Live Version 
+https://praguemusicevents.herokuapp.com/
 
 ## Description 
 A web application for browsing upcoming music events in Prague. The web application consists of an interactive map which displays markers for each event, a filtering system, and a section to view more details of each event. 
