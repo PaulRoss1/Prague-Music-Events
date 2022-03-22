@@ -10,7 +10,7 @@ I made this application as a practice project to improve my Vue.js skills. The p
 <br>
 
 
-[![Prague Music Events](https://i.postimg.cc/51qPpLyf/pme.jpg)](#)
+[![Prague Music Events](https://i.postimg.cc/51qPpLyf/pme.jpg)](#!)
 
 ## Technologies Used 
 * Python 3
